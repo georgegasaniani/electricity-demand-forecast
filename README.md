@@ -103,6 +103,15 @@ This project demonstrates that simple, interpretable models can outperform compl
 - **ENTSO-E API** — real electricity data
 - **Open-Meteo API** — weather data
 
+
+### Power BI Dashboard
+- Interactive visualization of demand patterns
+- Hourly, weekly, and seasonal trends
+- Temperature correlation analysis
+- Data model with proper relationships
+
+
+
 ## Author
 
 Giorgos — Data Analyst & Mathematics Student
